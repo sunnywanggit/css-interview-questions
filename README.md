@@ -55,5 +55,12 @@ box-sizing:border-box;//IE盒模型
 
 （待处理）
 
+## 列举几种清除浮动的方法
+
+- clear
+- 伪元素
+- 创建BFC（BFC是块级格式化上下文，作用：其内部的元素布局状态不会影响到外部元素的布局状态）
+- flex
+- 父级overflow：hidden
 
 
